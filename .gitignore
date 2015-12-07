@@ -1,0 +1,6 @@
+.env
+workspace/*
+!workspace/.keep
+config.json
+crafty
+vendor/
